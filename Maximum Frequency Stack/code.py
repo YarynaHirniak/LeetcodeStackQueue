@@ -29,3 +29,4 @@ class FreqStack(object):
             self.max_freq -= 1
         return val
 
+
